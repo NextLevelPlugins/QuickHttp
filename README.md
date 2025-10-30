@@ -29,7 +29,7 @@ Easily send REST API requests, build JSON payloads, and handle responses — **n
 
 ```text
 New JSON Builder →
-  Set String("username", "Dakota") →
+  Set String("username", "NextLevelPlugins") →
   Set Int("score", 2500) →
   To JSON String →
   HTTP JSON Request (POST https://api.example.com/submit)
