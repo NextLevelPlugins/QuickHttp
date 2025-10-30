@@ -1,0 +1,22 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.1.1",
+  "FriendlyName": "QuickHttp",
+  "Description": "Blueprint-friendly JSON HTTP client with retries, timeouts, and cancel tokens. UE4.25+ and UE5 compatible.",
+  "Category": "Networking",
+  "CanContainContent": false,
+  "IsBetaVersion": false,
+  "Modules": [
+    {
+      "Name": "QuickHttp",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ],
+  "SupportedTargetPlatforms": [
+    "Win64",
+    "Linux",
+    "Mac"
+  ]
+}
